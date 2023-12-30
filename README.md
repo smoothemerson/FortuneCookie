@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the finished project, online](https://aoba43.github.io/Fortune Cookie/)
+- [Access the finished project, online](https://aoba43.github.io/FortuneCookie/)
 
 - Project given by Rocketseat to advance in JavaScript
 
