@@ -13,14 +13,14 @@
 <br>
 
 <p align="center">
-  <img alt="GuessingGame" src="./github/preview.png" width="100%">
+  <img alt="FortuneCookie" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
 
-- HTML
+- HTML and CSS
 - Javascript
 - Git and GitHub
 
